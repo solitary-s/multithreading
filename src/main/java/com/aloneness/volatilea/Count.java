@@ -1,4 +1,4 @@
-package com.aloneness.volali;
+package com.aloneness.volatilea;
 
 import java.time.LocalDateTime;
 import java.time.ZoneOffset;
